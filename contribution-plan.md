@@ -20,7 +20,7 @@ Follow the existing plugin interface without changing main.py.
 - [x] Display both random numbers and the correct product.
 - [x] Use only the Python standard library.
 - [x] Confirm main.py discovers and runs the plugin.
-- [ ] Keep the output readable and explain verification in the pull request.
+- [x] Keep the output readable and explain verification in the pull request.
 - [x] Avoid executing the activity when the module is imported.
 
 ## Possible risks or questions
